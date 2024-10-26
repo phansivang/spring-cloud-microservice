@@ -1,4 +1,4 @@
-package com.wing.springking.message;
+package com.wing.springking.producer;
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

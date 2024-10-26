@@ -1,5 +1,6 @@
-package com.microservice.producer.message;
+package com.microservice.producer.controller;
 
+import com.microservice.producer.producer.MessageProducer;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 
