@@ -1,6 +1,6 @@
-package com.wing.springking.consumer;
+package com.microservice.consumer.consumer;
 
-import com.wing.springking.producer.MessageProducer;
+import com.microservice.consumer.producer.MessageProducer;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.context.annotation.Bean;
