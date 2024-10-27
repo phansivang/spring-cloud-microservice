@@ -1,4 +1,4 @@
-package com.microservice.producer.config;
+package com.microservice.producer.core.config;
 
 import org.apache.kafka.clients.CommonClientConfigs;
 import org.apache.kafka.clients.producer.ProducerConfig;
