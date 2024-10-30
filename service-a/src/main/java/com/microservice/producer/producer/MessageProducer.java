@@ -15,7 +15,7 @@ public class MessageProducer {
 
   public void message() {
     try {
-      this.streamBridge.send("message-out-0", "Hello Microservice !");
+      this.streamBridge.send("message-out-0", "Hello Microservice B!");
       log.info("Kafka Message Sent");
     } catch (Exception e) {
       log.error("Kafka Failed To Send Message : {}", e.getMessage());
